@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm NakanoMiku13</h1>
-<h3 align="center">A guy who wants to creating interesting and innovating tools</h3>
+<h3 align="center">A guy who wants to create interesting and innovating tools</h3>
 
 - <3 I’m currently learning **IA, Machine Learning and Block-chain technologies**
 
