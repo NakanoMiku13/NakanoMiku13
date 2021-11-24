@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm NakanoMiku13</h1>
 <h3 align="center">A guy who wants to create interesting and innovating tools</h3>
 
-- <3 I’m currently learning **IA, Machine Learning and Block-chain technologies**
+- <3 I’m currently learning **AI, Machine Learning and Block-chain technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NakanoMiku13](https://github.com/NakanoMiku13)
 
@@ -12,6 +12,9 @@
 <a href="https://linkedin.com/in/daniel-ulrich-tamayo-4b310b21a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel ulrich tamayo" height="30" width="40"/></a>
 <a href="https://codeforces.com/profile/puertas" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="puertas" height="30" width="40" /></a>
 <a href="https://omegaup.com/profile/Puertas" target="_blank">OmegaUP</a>
+<a href="https://www.hackerrank.com/danielulrichtam1" target:"_blank">HackerRank</a>
+<a href="https://leetcode.com/NakanoMiku13/" target:"_blank">LeetCode</a>
+<a href="https://app.hackthebox.com/users/813522" target:"_blank">HackTheBox</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
