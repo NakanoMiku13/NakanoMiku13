@@ -12,9 +12,9 @@
 <a href="https://linkedin.com/in/daniel-ulrich-tamayo-4b310b21a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel ulrich tamayo" height="30" width="40"/></a>
 <a href="https://codeforces.com/profile/puertas" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="puertas" height="30" width="40" /></a>
 <a href="https://omegaup.com/profile/Puertas" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/558429?s=280&v=4" alt="OmegaUp" height="30" width="40"/></a>
-<a href="https://www.hackerrank.com/danielulrichtam1" target:"_blank"><img src="https://wikiimg.tojsiabtv.com/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" align="center" height="30" width="40"/></a>
-<a href="https://leetcode.com/NakanoMiku13/" target:"_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" alt="Leetcode"/></a>
-<a href="https://app.hackthebox.com/users/813522" target:"_blank">HackTheBox</a>
+<a href="https://www.hackerrank.com/danielulrichtam1" target="_blank"><img src="https://wikiimg.tojsiabtv.com/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" align="center" height="30" width="40"/></a>
+<a href="https://leetcode.com/NakanoMiku13/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" alt="Leetcode" align="center"/></a>
+<a href="https://app.hackthebox.com/users/813522" target="_blank"><img src="https://mayomacam.github.io/img/reviews/2.png" alt="HackTheBox" height="30" width="40" align="center"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
