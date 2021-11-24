@@ -13,7 +13,7 @@
 <a href="https://codeforces.com/profile/puertas" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="puertas" height="30" width="40" /></a>
 <a href="https://omegaup.com/profile/Puertas" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/558429?s=280&v=4" alt="OmegaUp" height="30" width="40"/></a>
 <a href="https://www.hackerrank.com/danielulrichtam1" target:"_blank"><img src="https://wikiimg.tojsiabtv.com/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" align="center" height="30" width="40"/></a>
-<a href="https://leetcode.com/NakanoMiku13/" target:"_blank">LeetCode</a>
+<a href="https://leetcode.com/NakanoMiku13/" target:"_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" alt="Leetcode"/></a>
 <a href="https://app.hackthebox.com/users/813522" target:"_blank">HackTheBox</a>
 </p>
 
