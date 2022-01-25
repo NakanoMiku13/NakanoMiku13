@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NakanoMiku13](https://github.com/NakanoMiku13)
 
-- 📫 How to reach me **danielulrichtamayo@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
